@@ -1,0 +1,5 @@
+dont have the solution and the start open at the same time
+
+you will mix the subvi linking and create a mess
+
+only have them in memory one at a time

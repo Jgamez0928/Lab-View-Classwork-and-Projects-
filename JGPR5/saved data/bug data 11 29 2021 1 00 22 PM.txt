@@ -1,0 +1,9 @@
+This is a C(T) experiment being done in Physics 3600.
+It records the decay response of an RC circuit where the capacitance is a strong function of temperature.
+
+11/29/2021
+1:00 PM
+
+waveform params	n meas	index	temp (C)	time (S)	capacitance (F)	normalized waveforms
+
+<data below>
